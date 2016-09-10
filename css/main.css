@@ -42,7 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-.blurb > * {
-    float:left;
-    margin-right:5px;
+#content img {
+  float: left;
 }
