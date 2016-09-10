@@ -20,12 +20,11 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -46,5 +45,5 @@ ul.posts li {
 
 img {
   float: left;
-  margin: 0px 0px 0px 0px;
+  margin: 0px 20px 20px 0px;
 }
