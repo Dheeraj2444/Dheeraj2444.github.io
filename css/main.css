@@ -43,7 +43,7 @@ ul.posts li {
     list-style: none;
 }
 
-#content img {
-  float: left;
+img {
+  float: right;
   margin: 0px 0px 0px 0px;
 }
