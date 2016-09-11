@@ -31,7 +31,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    clear: right;
+    clear: left;
 }
 
 ul.posts { 
@@ -44,6 +44,6 @@ ul.posts li {
 }
 
 img {
-  float: right;
-  margin: 0px 0px 20px 20px;
+  float: left;
+  margin: 0px 20px 20px 0px;
 }
