@@ -20,13 +20,13 @@ a {
 /*a:visited {*/
 /*    color: 	#000080;*/
 /*}*/
-a:active {
-    text-decoration: underline;
-}
 a:hover {
     text-decoration: underline;
 }
-
+a:active {
+    text-decoration: underline;
+    color: red;
+}
 h1 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
