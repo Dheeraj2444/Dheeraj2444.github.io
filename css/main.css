@@ -47,6 +47,8 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.5;
     font-weight: normal;
+    text-align: justify;
+    text-justify: inter-word;
 }
 footer {
     border-top: 1px solid #d5d5d5;
